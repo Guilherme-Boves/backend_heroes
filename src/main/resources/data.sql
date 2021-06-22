@@ -1,0 +1,5 @@
+INSERT INTO TB_HERO (name) VALUES ('Hero 1');
+INSERT INTO TB_HERO (name) VALUES ('Hero 2');
+INSERT INTO TB_HERO (name) VALUES ('Hero 3');
+INSERT INTO TB_HERO (name) VALUES ('Hero 4');
+INSERT INTO TB_HERO (name) VALUES ('Hero 5');
